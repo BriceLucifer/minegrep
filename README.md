@@ -1,2 +1,2 @@
 # minegrep
-一个简单的grep，参考https://course.rs/basic-practice/intro.html，入门rust：）
+一个简单的grep，参考rust圣经，入门rust：）
